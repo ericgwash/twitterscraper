@@ -2,6 +2,7 @@ from multiprocessing import Process
 import snscrape.modules.twitter as sntwitter
 import pandas as pd
 import time
+import os
 
 # Setting variables to be used below
 tags = [
