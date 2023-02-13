@@ -19,7 +19,7 @@ tags = [
     "#hashtag9",
 ]
 since_time = "2023-01-01"
-until_time = "2023-02-16"
+until_time = "2023-02-09"
 
 start_time = time.time()
 
